@@ -9,7 +9,5 @@ Access your Pterodactyl panel and head to the Nests section within the admin are
 Locate the downloaded JSON file, upload it and choose the nest where you'd like to place the egg.
 
 Unbeatable hosting solutions >> https://www.clubnode.com/
-
 Anti-DDoS solution for your Minecraft server >> https://www.guardbyte.io/
-
 Enterprise DDoS mitigation for your business >> https://www.exdp.net/
